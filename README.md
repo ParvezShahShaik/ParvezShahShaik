@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Sql, Tableau, PowerBI, Python**
 
-- 📫 How to reach me **parvezswork@gmail.com**
+- 📫 How to reach me **parvezshahshaik@outlook.com**
 
 - 📄 Know about my experiences [https://www.parvezshah.com/](https://www.parvezshah.com/)
 

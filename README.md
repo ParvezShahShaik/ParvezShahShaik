@@ -10,15 +10,11 @@
 
 - 👯 I’m looking to collaborate on **any Data Analyst Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.parvezshah.com/](https://www.parvezshah.com/)
-
 - 📝 I regularly write articles on [https://medium.com/@parvezshah.shaik](https://medium.com/@parvezshah.shaik)
 
 - 💬 Ask me about **Sql, Tableau, PowerBI, Python**
 
 - 📫 How to reach me **parvezshahshaik@outlook.com**
-
-- 📄 Know about my experiences [https://www.parvezshah.com/](https://www.parvezshah.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

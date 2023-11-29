@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/parvezshahshaik" target="blank"><img src="https://img.shields.io/twitter/follow/parvezshahshaik?logo=twitter&style=for-the-badge" alt="parvezshahshaik" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/parvezshahshaik/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="parvezshahshaik" /></a> </p>
+
 - 🔭 I’m currently working on **Data Analyst Skills**
 
 - 🌱 I’m currently learning **Sql, Tableau, PowerBI, Python**

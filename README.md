@@ -2,7 +2,7 @@ Absolutely! A good README for a data analyst could include the following section
 
 ---
 
-# Hi there! 👋 I'm [Your Name], a Data Analyst.
+# Hi there! 👋 I'm Parvez Shah Shaik, a Data Analyst.
 
 Welcome to my GitHub profile! Here's a glimpse into what I do and what you can find here.
 

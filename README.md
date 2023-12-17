@@ -1,7 +1,3 @@
-Absolutely! A good README for a data analyst could include the following sections:
-
----
-
 # Hi there! 👋 I'm Parvez Shah Shaik, a Data Analyst.
 
 Welcome to my GitHub profile! Here's a glimpse into what I do and what you can find here.

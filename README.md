@@ -18,7 +18,7 @@ I'm passionate about uncovering insights from data to drive informed decisions. 
 
 ## 📚 Resources & Learning
 I believe in continuous learning! Here are some resources I found helpful:
-- https://medium.com/@the_datalink
+- https://medium.com/@parvezshah.shaik
 
 Feel free to explore, fork, or provide feedback on any of my projects! I'm open to collaborations and always eager to learn and grow in the world of data.
 

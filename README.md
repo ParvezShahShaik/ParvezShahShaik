@@ -16,20 +16,16 @@ I'm passionate about uncovering insights from data to drive informed decisions. 
 - **Articles:** Blog posts or articles discussing data-related topics.
 
 
-## 📚 Resources & Learning
-I believe in continuous learning! Here are some resources I found helpful:
-- https://medium.com/@parvezshah.shaik
-
 Feel free to explore, fork, or provide feedback on any of my projects! I'm open to collaborations and always eager to learn and grow in the world of data.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/TheDatalink_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvezshahshaik" height="30" width="40" /></a>
+<a href="https://twitter.com/parvezshahshaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvezshahshaik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parvezshahshaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvezshahshaik" height="30" width="40" /></a>
 <a href="https://kaggle.com/shaikparvezshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaikparvezshah" height="30" width="40" /></a>
-<a href="https://medium.com/@the_datalink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parvezshahshaik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/datazone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="datazone" height="30" width="40" /></a>
+<a href="https://medium.com/@parvezshah.shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parvezshahshaik" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/parvezshahshaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="datazone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tools and Technologies:</h3>
